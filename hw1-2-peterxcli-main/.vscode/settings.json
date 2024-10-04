@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "iostream": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "span": "cpp"
+    }
+}

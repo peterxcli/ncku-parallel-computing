@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "vector": "cpp",
+        "limits": "cpp",
+        "ratio": "cpp",
+        "algorithm": "cpp"
+    }
+}
